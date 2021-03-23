@@ -51,7 +51,7 @@ Signed,
 - Amye Scavarda Perrin
 - Amy Russell
 - Amy Troschinetz
-- Andrej Shadura (Debian Developer)
+- Andrej Shadura
 - Andy Isaacson (@radii, founding member of Noisebridge)
 - Angus Fletcher
 - Aniol Marti (Debian Maintainer, Caliu President)
@@ -205,6 +205,7 @@ Signed,
 - Mairi Dulaney (Fedora Project contributor)
 - Máirín Duffy (Fedora Project, former FSF HPP committee member, former LP speaker)
 - Malleck Braun
+- Margarita Manterola (Debian Developer, member of the Debian Technical Committee)
 - Markus Unterwaditzer
 - Martin Splitt
 - Martin Wimpress (Former FSF member)
